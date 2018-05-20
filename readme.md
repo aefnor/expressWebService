@@ -16,3 +16,5 @@ https://zeit.co/dashboard/deployments
 
 Tutorial:
 https://www.sohamkamani.com/blog/2016/09/21/making-a-telegram-bot/
+
+Ensure to update proxy in package.json on the site. React App.
