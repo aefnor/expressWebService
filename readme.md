@@ -1,7 +1,11 @@
 Steps to 'recompile' webserver
+
 1.now ls
+
 2.now rm <url> 			ie:now rm example-create-react-app-express-fyfleotyqc.now.sh
+  
 3.now
+
 4.curl -F "url=<url>/new-message"  https://api.telegram.org/bot556287487:AAHYXq3XLVXAInd1EfyRkqacUvL5SuhrgH4/setWebhook
 
 example:
